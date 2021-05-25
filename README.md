@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-[!RafaelCortezP's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelCortezP&show_icons=true&theme=dark&count_private=true)
+[![RafaelCortezP's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelCortezP&show_icons=true&theme=dark&count_private=true)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCortezP&layout=compact&theme=dark)](https://github.com/RafaelCortezP/github-readme-stats)
 
